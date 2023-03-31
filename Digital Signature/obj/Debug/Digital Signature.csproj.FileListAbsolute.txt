@@ -1,0 +1,60 @@
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\bin\Debug\Digital Signature.exe.config
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\bin\Debug\Digital Signature.exe
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\bin\Debug\Digital Signature.pdb
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature.csprojAssemblyReference.cache
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\MainWindow.g.cs
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\App.g.cs
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature_MarkupCompile.cache
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature_MarkupCompile.lref
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\MainWindow.baml
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature.g.resources
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital_Signature.Properties.Resources.resources
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature.csproj.GenerateResource.cache
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature.csproj.CoreCompileInputs.cache
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature.exe
+C:\Users\grzegorz\Downloads\Digital-Signature-master (1)\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature.pdb
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\bin\Debug\Digital Signature.exe.config
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\bin\Debug\Digital Signature.exe
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\bin\Debug\Digital Signature.pdb
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature.csprojAssemblyReference.cache
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\MainWindow.g.cs
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\App.g.cs
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature_MarkupCompile.cache
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature_MarkupCompile.lref
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\MainWindow.baml
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature.g.resources
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital_Signature.Properties.Resources.resources
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature.csproj.GenerateResource.cache
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature.csproj.CoreCompileInputs.cache
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature.exe
+C:\Users\grzegorz\Desktop\Digital-Signature-master\Digital Signature\Digital Signature\obj\Debug\Digital Signature.pdb
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\bin\Debug\Digital Signature.exe.config
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\bin\Debug\Digital Signature.exe
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\bin\Debug\Digital Signature.pdb
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\obj\Debug\Digital Signature.csprojAssemblyReference.cache
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\obj\Debug\MainWindow.g.cs
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\obj\Debug\App.g.cs
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\obj\Debug\Digital Signature_MarkupCompile.cache
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\obj\Debug\Digital Signature_MarkupCompile.lref
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\obj\Debug\MainWindow.baml
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\obj\Debug\Digital Signature.g.resources
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\obj\Debug\Digital_Signature.Properties.Resources.resources
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\obj\Debug\Digital Signature.csproj.GenerateResource.cache
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\obj\Debug\Digital Signature.csproj.CoreCompileInputs.cache
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\obj\Debug\Digital Signature.exe
+C:\Users\grzegorz\Desktop\Podpis cyfrowy\Digital Signature\obj\Debug\Digital Signature.pdb
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\bin\Debug\Digital Signature.exe.config
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\bin\Debug\Digital Signature.exe
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\bin\Debug\Digital Signature.pdb
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\obj\Debug\Digital Signature.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\obj\Debug\App.g.cs
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\obj\Debug\Digital Signature_MarkupCompile.cache
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\obj\Debug\Digital Signature_MarkupCompile.lref
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\obj\Debug\MainWindow.baml
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\obj\Debug\Digital Signature.g.resources
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\obj\Debug\Digital_Signature.Properties.Resources.resources
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\obj\Debug\Digital Signature.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\obj\Debug\Digital Signature.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\obj\Debug\Digital Signature.exe
+C:\Users\Kamil\Desktop\Podpis cyfro\Digital Signature\obj\Debug\Digital Signature.pdb

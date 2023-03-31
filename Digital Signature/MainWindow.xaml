@@ -1,0 +1,41 @@
+﻿<Window x:Class="Digital_Signature.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Digital_Signature"
+        mc:Ignorable="d"
+        Title="Podpis cyfrowy" Height="660" Width="1100"
+        Background="OldLace">
+    <Grid Margin="10,0,10,6">
+        <TextBox x:Name="tbMessage" HorizontalAlignment="Left" Margin="10,33,-300,0" TextWrapping="Wrap" Width="721" Background="White" Grid.ColumnSpan="2" Height="186" VerticalAlignment="Top" TextChanged="tbMessage_TextChanged" VerticalScrollBarVisibility="Visible" IsReadOnly="True" />
+        <Label x:Name="lblMessage" Content="Wiadomość:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.771,-0.422" Height="26" Width="95"/>
+        <TextBox x:Name="tbP" Text="37975227936943673922808872755445627854565536638199" HorizontalAlignment="Left" Height="17" Margin="10,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="334" PreviewTextInput="NumberValidationTextBox"/>
+        <TextBox x:Name="tbQ" Text="40094690950920881030683735292761468389214899724061" HorizontalAlignment="Left" Height="18" Margin="397,246,-300,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="333" PreviewTextInput="NumberValidationTextBox"/>
+        <TextBox x:Name="tbE" Text="1074839275417362286266294945066175413502599191970697912136642416299606897244138474909114297362072127" HorizontalAlignment="Left" Height="18" Margin="10,295,-300,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="720" PreviewTextInput="NumberValidationTextBox"/>
+        <TextBox x:Name="tbD" Text="1234374297180681149613806886583735292761468381629960689724413847490911429736207502792212986581239031" HorizontalAlignment="Left" Height="17" Margin="10,345,-300,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="721" PreviewTextInput="NumberValidationTextBox"/>
+        <TextBox x:Name="tbR" Text="1522605027922533360535618378132637429718068114961380688657908494580122963258952897654000350692006139" HorizontalAlignment="Left" Height="16" Margin="10,393,-300,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="720" PreviewTextInput="NumberValidationTextBox"/>
+        <TextBox x:Name="tbHashHex" HorizontalAlignment="Left" Height="18" Margin="10,442,-300,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="720" IsReadOnly="True"/>
+        <TextBox x:Name="tbHashDecimal" HorizontalAlignment="Left" Height="16" Margin="10,492,-300,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="719" IsReadOnly="True"/>
+        <TextBox x:Name="tbDigitalSignature" HorizontalAlignment="Left" Height="15" Margin="10,542,-300,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="720" IsReadOnly="True"/>
+        <TextBox x:Name="tbCheckedHash" HorizontalAlignment="Left" Height="16" Margin="10,590,-300,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="719" IsReadOnly="True"/>
+        <Button x:Name="btnFile" Content="Szukaj..." HorizontalAlignment="Left" Margin="754,101,-424,0" VerticalAlignment="Top" Width="152" Height="19" Background="Bisque" Click="btnFile_Click"/>
+        <Button x:Name="btnSign" Content="Podpisz" HorizontalAlignment="Left" Margin="754,445,0,0" VerticalAlignment="Top" Width="155" Height="30" Background="Bisque" Click="btnSign_Click" RenderTransformOrigin="0.445,-2.611"/>
+        <Button x:Name="btnVerify" Content="Weryfikuj" HorizontalAlignment="Left" Margin="754,576,0,0" VerticalAlignment="Top" Width="152" Height="30" Background="Bisque" Click="btnVerify_Click"/>
+        <Button x:Name="btnSignFile" Content="Szukaj..." HorizontalAlignment="Left" Margin="753,200,-426,0" VerticalAlignment="Top" Width="155" Height="19" Background="Bisque" Click="btnSignFile_Click"/>
+        <Label x:Name="lblFile" Content="Plik:" HorizontalAlignment="Left" Margin="754,34,-600,0" VerticalAlignment="Top" Width="100"/>
+        <Label x:Name="lblFileName" Content="" HorizontalAlignment="Left" Margin="754,60,-600,0" VerticalAlignment="Top" Width="305"/>
+        <Label x:Name="lblP" Content="P (liczba pierwsza):" HorizontalAlignment="Left" Margin="10,219,0,0" VerticalAlignment="Top" Width="243" Height="28" RenderTransformOrigin="0.494,-0.087"/>
+        <Label x:Name="lblQ" Content="Q (liczba pierwsza):" HorizontalAlignment="Left" Margin="394,221,-157,0" VerticalAlignment="Top" Width="246" Height="25"/>
+        <Label x:Name="lblE" Content="E (klucz publiczny):" HorizontalAlignment="Left" Margin="10,269,0,0" VerticalAlignment="Top" Width="237" RenderTransformOrigin="0.5,0.5" Height="26">
+        </Label>
+        <Label x:Name="lblD" Content="D (klucz prywatny):" HorizontalAlignment="Left" Margin="10,318,0,0" VerticalAlignment="Top" Width="197" Height="27"/>
+        <Label x:Name="lblHashHex" Content="Hash (szesnastkowo):" HorizontalAlignment="Left" Margin="10,414,0,0" VerticalAlignment="Top" Width="197" Height="28"/>
+        <Label x:Name="lblHashDecimal" Content="Hash (dziesietnie):" HorizontalAlignment="Right" Margin="10,465,860,0" VerticalAlignment="Top" Width="197" Height="38"/>
+        <Label x:Name="lblDigitalSignature" Content="Podpis cyfrowy:" HorizontalAlignment="Left" Margin="10,513,0,0" VerticalAlignment="Top" Width="145" Height="29"/>
+        <Label x:Name="lblR" Content="N:" HorizontalAlignment="Left" Margin="10,366,0,0" VerticalAlignment="Top" Width="145" Height="27"/>
+        <Label x:Name="lblSignFile" Content="Podpis cyfrowy:" HorizontalAlignment="Left" Margin="753,133,-600,0" VerticalAlignment="Top" Width="100"/>
+        <Label x:Name="lblSignFileName" Content="" HorizontalAlignment="Left" Margin="753,159,-600,0" VerticalAlignment="Top" Width="305"/>
+        <Label x:Name="lblCheckedHash" Content="Hash z pliku:" HorizontalAlignment="Left" Margin="10,562,0,0" VerticalAlignment="Top" Width="145" Height="28"/>
+    </Grid>
+</Window>
